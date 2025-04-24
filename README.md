@@ -49,3 +49,16 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
 # 📌 Para mayor informacion puede contactar aqui 👇
 <div align="center">
 <a href="https://wa.me/3125499679?text=Hola,%20Me%20interesan%20los%20servicios%20de%20Administración%20de%20Windows%20Server,%20Como%20empezar?" target="_blank" title="Contacto por WhatsApp" style="color:#000; text-decoration:underline"><img width="128" alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/256px-WhatsApp.svg.png?20220228223904"></a></div>
+
+### Preguntas y respuestas mas comunes:
+
+## De que se trata?
+Es una propuesta de administración de servidores con sistema operativo Windows Server.
+## A quien va dirigido?
+A pequeñas y medianas empresas que operen con sistemas de informacion soportados en Windows Server
+## Ventajas
+Acceso a soporte especializado en Windows Server con amplia experiencia.
+## Como iniciar?
+Ponte en contacto a travez del boton de whatsapp arriba 👆
+
+
