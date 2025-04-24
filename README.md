@@ -2,7 +2,7 @@
   <h1> Bienvenido a mi portafolio de servicios Windows Server <a title="Sitio Oficial de Windows Server" href="https://www.microsoft.com/es-co/windows-server"><img width="64" alt="Windows Server logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/64px-Windows_logo_-_2012.svg.png?20220903072431" target="_blank"></a></h1>
 
 </div>
-La gestión adecuada de infraestructura de sistemas es clave para el correcto funcionamiento de cualquier sistema de información. Windows Server por defecto es muy permisivo y listo para usar, eso tiene un costo a nivel de administración, seguridad y rendimiento, los servicios a continuación están enfocados a reducir esas brechas y hacer un ambiente más seguro, estable y productivo.
+La gestión adecuada de infraestructura de sistemas es clave para el correcto funcionamiento de cualquier sistema de información. Windows Server por defecto es muy permisivo y listo para usar y eso tiene un costo a nivel de administración, seguridad y rendimiento, los servicios a continuación están enfocados a reducir esas brechas y hacer un ambiente más seguro, estable y productivo.
 <p align="center">
 
 </p>
