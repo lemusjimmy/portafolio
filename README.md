@@ -48,4 +48,4 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
 
 # 📌 Para mayor informacion puede contactar aqui 👇
 <div align="center">
-<a href="https://wa.me/3125499679?text=Me%20interesa,%20Como%20empezar?" target="_blank" title="Contacto por WhatsApp" style="color:#000; text-decoration:underline"><img width="128" alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/256px-WhatsApp.svg.png?20220228223904"></a></div>
+<a href="https://wa.me/3125499679?text=Hola,%20Me%20interesan%20los%20servicios%20de%20Administración%20de%20Windows%20Server,%20Como%20empezar?" target="_blank" title="Contacto por WhatsApp" style="color:#000; text-decoration:underline"><img width="128" alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/256px-WhatsApp.svg.png?20220228223904"></a></div>
