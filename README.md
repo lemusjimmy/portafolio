@@ -47,4 +47,5 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
 </ul>
 
 # 📌 Para mayor informacion puede contactar aqui 👇
-<a href="https://wa.me/3125499679" target="_blank" title="Reach us via WhatsApp" style="color:#000; text-decoration:underline" align="center"> Click here to contact us via WhatsApp </a>
+<div align="center">
+<a href="https://wa.me/3125499679?text=Me%20interesa,%20Como%20empezar?" target="_blank" title="Contacto por WhatsApp" style="color:#000; text-decoration:underline"><img width="128" alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/256px-WhatsApp.svg.png?20220228223904"></a></div>
