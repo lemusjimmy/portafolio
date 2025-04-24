@@ -15,7 +15,7 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
   </li>
     
   <li>
-    <h3>•	Solución de problemas y optimización de recursos</h3>
+    <h3>Solución de problemas y optimización de recursos</h3>
     <p>
       Es importante tener claro los componentes de una solución y verificar su comportamiento e interacciones para que la resolución de problemas sea rápida y así reducir el impacto en el negocio.
     </p>
