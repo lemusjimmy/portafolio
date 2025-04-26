@@ -11,7 +11,7 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
     <h3>Puesta en marcha y configuración</h3>
     <p>
       Esta es la mejor oportunidad para establecer una configuración robusta, segura y controlada antes de salir a producción.
-      <img width="700" src="imgs/role-wizard.gif" >
+      <img width="700" src="imgs/role-wizard.jpg" >
     </p>
   </li>
     
@@ -19,35 +19,35 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
     <h3>Solución de problemas y optimización de recursos</h3>
     <p>
       Es importante tener claro los componentes de una solución y verificar su comportamiento e interacciones para que la resolución de problemas sea rápida y así reducir el impacto en el negocio.
-      <img width="700" src="imgs/perfmon.png">
+      <img width="700" src="imgs/perfmon.jpg">
     </p>
   </li>
   <li>
     <h3>Migración a la nube privada y/o publica (Azure, GCP, AWS, VCloud)</h3>
     <p>
       La facilidad para la administración es crucial para ser competitivo y eficiente es por ello por lo que las nubes han tenido tanta acogida.
-      <img width=700 src="imgs/cluuds.jpeg">
+      <img width=700 src="imgs/cluuds.jpg">
     </p>
   </li>
   <li>
     <h3>Auditoria y Fortalecimiento de la seguridad</h3>
     <p>
       El control y la visibilidad es clave para tener una configuración que nos de tranquilidad de mantener los ambientes seguros y confiables.
-      <img width=700 src="imgs/events.jpeg">
+      <img width=700 src="imgs/events.jpg">
     </p>
   </li>
   <li>
     <h3>Automatización con Scripts</h3>
     <p>
       La automatización es nuestro mejor amigo a la hora de lograr un sistema operativo seguro, estable y eficiente.
-      <img width="700" src="imgs/ps.png">
+      <img width="700" src="imgs/ps.jpg">
     </p>
   </li>
   <li>
     <h3>Mantenimiento Mensual</h3>
     <p>
       Windows Server soporta una gran variedad de servicios y cada uno tiene sus propias particularidades que deben estar alineadas con la seguridad, el rendimiento y la mejora continua. 
-      <img width="700" src="imgs/dash.jpeg">
+      <img width="700" src="imgs/dash.jpg">
     </p>
   </li>
 </ul>
