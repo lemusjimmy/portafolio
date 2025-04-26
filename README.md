@@ -61,7 +61,7 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
 ## De que se trata?
 Es una propuesta de administración de servidores con sistema operativo Windows Server.
 ## A quien va dirigido?
-A pequeñas y medianas empresas que operen con sistemas de informacion soportados en Windows Server
+A pequeñas y medianas empresas que operen con sistemas de informacion soportados en Windows Server y necesiten una gestión profesional y de calidad.
 ## Ventajas
 Acceso a soporte especializado en Windows Server con amplia experiencia.
 ## Como iniciar?
