@@ -26,7 +26,7 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
     <h3>Migración a la nube privada y/o publica (Azure, GCP, AWS, VCloud)</h3>
     <p>
       La facilidad para la administración es crucial para ser competitivo y eficiente es por ello por lo que las nubes han tenido tanta acogida.
-      <img width=700 src="imgs/cluuds.jpg">
+      <img width=700 src="imgs/clouds.jpg">
     </p>
   </li>
   <li>
