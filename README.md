@@ -11,6 +11,7 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
     <h3>Puesta en marcha y configuración</h3>
     <p>
       Esta es la mejor oportunidad para establecer una configuración robusta, segura y controlada antes de salir a producción.
+      <img width="700" src="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/media/install-a-new-windows-server-2012-active-directory-forest--level-200-/adds_smi_selectserverroles.gif" >
     </p>
   </li>
     
@@ -18,30 +19,35 @@ La gestión adecuada de infraestructura de sistemas es clave para el correcto fu
     <h3>Solución de problemas y optimización de recursos</h3>
     <p>
       Es importante tener claro los componentes de una solución y verificar su comportamiento e interacciones para que la resolución de problemas sea rápida y así reducir el impacto en el negocio.
+      <img width="700" src="https://www.perfmatrix.com/wp-content/uploads/2023/09/PerfMon_51-1024x646.png">
     </p>
   </li>
   <li>
     <h3>Migración a la nube privada y/o publica (Azure, GCP, AWS, VCloud)</h3>
     <p>
       La facilidad para la administración es crucial para ser competitivo y eficiente es por ello por lo que las nubes han tenido tanta acogida.
+      <img width=700 src="https://sam-solutions.us/wp-content/uploads/MAIN-2.jpg">
     </p>
   </li>
   <li>
     <h3>Auditoria y Fortalecimiento de la seguridad</h3>
     <p>
       El control y la visibilidad es clave para tener una configuración que nos de tranquilidad de mantener los ambientes seguros y confiables.
+      <img width=700 src="https://cdn.infrasos.com/wp-content/uploads/2023/04/Open-Windows-Security-Event-Log-on-a-Domain-Controller.jpg">
     </p>
   </li>
   <li>
     <h3>Automatización con Scripts</h3>
     <p>
       La automatización es nuestro mejor amigo a la hora de lograr un sistema operativo seguro, estable y eficiente.
+      <img width="700" src="https://user.oc-static.com/upload/2022/04/26/16509977637453_image107.png">
     </p>
   </li>
   <li>
     <h3>Mantenimiento Mensual</h3>
     <p>
       Windows Server soporta una gran variedad de servicios y cada uno tiene sus propias particularidades que deben estar alineadas con la seguridad, el rendimiento y la mejora continua. 
+      <img width="700" src="https://blog.netwrix.com/wp-content/uploads/2021/02/Windows-server-monitoring-tools-7.png.jpg">
     </p>
   </li>
 </ul>
